@@ -1,4 +1,7 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=WELCOME&fontsize=60)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINICONVERRTIBLE)](https://github.com/MINICONVERRTIBLE/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MINICONVERRTIBLE)](https://github.com/MINICONVERRTIBLE/github-readme-stats)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
 <!--
 **MINICONVERRTIBLE/MINICONVERRTIBLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
