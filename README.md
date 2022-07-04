@@ -15,7 +15,7 @@
 ![Keras](https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras) ![Pytorch](https://img.shields.io/badge/-pytorch-white?style=for-the-badge&logo=Pytorch) ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React)
 ***
 #### *📂PROJECTS📂* 
-##### - 🔍 [뉴스 데이터 분석 프로젝트]
+##### - 🔍 [[뉴스 데이터 분석 프로젝트]](https://github.com/56unbreakable/news_data_project)
 ##### - 🔍 [투자 성향 분석을 통한 개인퇴직 연금상품 추천 및 연금 관련 Q&A 챗봇 서비스]
 ##### - 🔍 [2022 관광데이터 활용 공모전]- 여술램프
 ***
