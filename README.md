@@ -16,7 +16,7 @@
 ***
 #### *📂PROJECTS📂* 
 ##### - 🔍 [[뉴스 데이터 분석 프로젝트]](https://github.com/56unbreakable/news_data_project)
-##### - 🔍 [투자 성향 분석을 통한 개인퇴직 연금상품 추천 및 연금 관련 Q&A 챗봇 서비스]
+##### - 🔍 [[투자 성향 분석을 통한 개인퇴직 연금상품 추천 및 연금 관련 Q&A 챗봇 서비스]](https://github.com/MINICONVERRTIBLE/silverfund/tree/master)
 ##### - 🔍 [2022 관광데이터 활용 공모전]- 여술램프
 ***
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MINICONVERRTIBLE)](https://github.com/MINICONVERRTIBLE/github-readme-stats)
