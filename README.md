@@ -8,7 +8,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a> 
 ***
-#### *🛠 TECH STACKS🛠 *
+#### *🛠 TECH STACKS🛠*
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=Javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb) 
 ***
 #### *⭐STUDY & INTERSET⭐* 
