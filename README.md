@@ -12,7 +12,7 @@
 ![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=Javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb) 
 ***
 #### *⭐STUDY & INTERSET⭐* 
-![Keras](https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras) ![Pytorch](https://img.shields.io/badge/-pytorch-white?style=for-the-badge&logo=Pytorch) ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React)
+![Keras](https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras) ![Pytorch](https://img.shields.io/badge/-pytorch-white?style=for-the-badge&logo=Pytorch) ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React) ![Sqlite] (https://img.shields.io/badge/-Sqlite-white?style=for-the-badge&logo=Sqlite) ![Tensorflow] (https://img.shields.io/badge/-Tensorflow-white?style=for-the-badge&logo=Tensorflow)
 ***
 #### *📂PROJECTS📂* 
 ##### - 🔍 [[뉴스 데이터 분석 프로젝트]](https://github.com/56unbreakable/news_data_project)
