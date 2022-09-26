@@ -9,7 +9,7 @@
 </a> 
 ***
 #### *🛠 TECH STACKS🛠*
-![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=Javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb) ![SQL](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=sql) 
+![python](https://img.shields.io/badge/-python-white?style=for-the-badge&logo=python) ![Javascript](https://img.shields.io/badge/-Javascript-white?style=for-the-badge&logo=Javascript) ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb) ![Sql](https://img.shields.io/badge/-Sql-white?style=for-the-badge&logo=Sql)
 ***
 #### *⭐STUDY & INTERSET⭐* 
 ![Keras](https://img.shields.io/badge/-keras-white?style=for-the-badge&logo=keras) ![Pytorch](https://img.shields.io/badge/-pytorch-white?style=for-the-badge&logo=Pytorch) ![React](https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React) ![Sqlite](https://img.shields.io/badge/-Sqlite-white?style=for-the-badge&logo=Sqlite) ![Tensorflow](https://img.shields.io/badge/-Tensorflow-white?style=for-the-badge&logo=Tensorflow)
